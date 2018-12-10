@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+/TestTCC/.vs/
+/TestTCC/Debug
+/TestTCC/TCCTasks/Debug
+/TestTCC/TCCTasks/x64/Debug
+/TestTCC/Task2TCPConsole/x64/Debug
+/TestTCC/TestTCCTest/Debug/
+/TestTCC/Task2TCPConsole/*.user
+/TestTCC/TCCTasks/TCCTasks.vcxproj.user
+/TestTCC/TestTCCTest/x64/Debug
+/TestTCC/x64/Debug
+/TestTCC/TestTCCTest/*.user
